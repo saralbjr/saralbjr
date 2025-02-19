@@ -25,5 +25,5 @@
 </div>
 <br/>
 <div align="center">
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=saralbjr&theme=dark" alt="iamAkuma" /></p>
+<p><img src="https://streak-stats.demolab.com?user=saralbjr&theme=dark" alt="saralbjr" /></p>
   </div>
