@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Saral! </h1>
 <img align='right' style='width: 200%;' src='https://media.tenor.com/jCk8c5_Q4J0AAAAM/hacker.gif'>
-- 🌱 Always Learning! <br/>
-- 👩‍💻 Checkout my portfolio at <a href="https://saralb.com.np/" target="_blank" rel="noopener noreferrer">https://saralb.com.np</a>
+ Learning! <br/>
+ Checkout my portfolio at <a href="https://saralb.com.np/" target="_blank" rel="noopener noreferrer">https://saralb.com.np</a>
 <h3 align="left">Connect with me :</h3>
 <div align="left">
   <a href="mailto:saralbjr@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
